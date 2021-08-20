@@ -86,6 +86,11 @@
                 </table>
             </div>
         </div>
+        <div class="row mt-3 justify-content-center">
+            <div class="col-2">
+                    <p>Added paragraph!</p>
+            </div>
+        </div>
         
     </div>
     
